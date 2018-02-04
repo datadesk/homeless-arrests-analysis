@@ -4,7 +4,7 @@ By [Christine Zhang](mailto:ychristinezhang@gmail.com)
 
 The Los Angeles Times conducted an analysis of arrests of the homeless by the Los Angeles Police Department.
 
-The results were reported in a February 4, 2018, Los Angeles Times story titled ["L.A. leaders oppose 'criminalizing' homeless people. But thousands are jailed for minor offenses"](http://www.latimes.com/local/politics/la-me-homeless-arrests-20180203-story.html).
+The results were reported in a February 4, 2018, Los Angeles Times story titled ["L.A. leaders oppose 'criminalizing' homeless people. But thousands are jailed for minor offenses"](http://www.latimes.com/local/politics/la-me-homeless-arrests-20180204-story.html).
 
 The Times' findings and analysis are available in a Jupyter [notebook](https://github.com/datadesk/homeless-arrests/blob/master/L.A.%20homeless%20arrests%20analysis.ipynb) in this repository.
 
