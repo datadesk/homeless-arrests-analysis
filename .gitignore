@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*.pages
+*.doc
+*.feather
+*.docx
+*.Rhistory
