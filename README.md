@@ -1,4 +1,4 @@
-# Los Angeles homeless arrests analysis
+# homeless-arrests-analysis
 
 By [Christine Zhang](mailto:ychristinezhang@gmail.com)
 
