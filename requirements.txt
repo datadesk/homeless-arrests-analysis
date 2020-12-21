@@ -11,7 +11,7 @@ html5lib==1.0b10
 ipykernel==4.7.0
 ipython==5.5.0
 ipython-genutils==0.2.0
-Jinja2==2.10
+Jinja2==2.10.1
 jsonschema==2.6.0
 jupyter-client==5.1.0
 jupyter-core==4.4.0
